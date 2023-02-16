@@ -11,7 +11,7 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
 
 - :zap: Ready to apply my passion for coding to develop quality solutions.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-DmitriyMelnikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stack_space) [![Yandex Badge](https://img.shields.io/badge/-Yandex.mail-red?style=flat&logo=Yandex&logoColor=white)](mailto:melnikod.d.job@yandex.ru)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stack_space) [![Yandex Badge](https://img.shields.io/badge/-Yandex.mail-red?style=flat&logo=Yandex&logoColor=white)](mailto:melnikod.d.job@yandex.ru)
 
 ---
 
@@ -59,10 +59,10 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Dmitriy&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=TMillers&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dmitriy&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TMillers&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
