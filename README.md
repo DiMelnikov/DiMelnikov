@@ -24,9 +24,6 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
     <a href="https://t.me/stack_space" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://vk.com/m.elnikov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
   </div>
 
 ---
@@ -56,3 +53,16 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/themillers/badges/large)
+
+### ⚙️ GitHub statistics:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Dmitriy&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dmitriy&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
