@@ -55,4 +55,4 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/themillers)
+![codewars](https://www.codewars.com/users/themillers/badges/large)
