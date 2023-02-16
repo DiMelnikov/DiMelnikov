@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
 Dear friends, I have been working as JavaScript developer since mid - 2021<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Ready to apply my passion for coding to develop quality solutions.
 
@@ -12,4 +12,22 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
 
 - :zap: Ready to apply my passion for coding to develop quality solutions.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-TMillers-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stack_space) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:melnikod.d.job@yandex.ru)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-TMillers-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stack_space) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:melnikod.d.job@yandex.ru)
+
+---
+
+### 🤝 Social media:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/dmitriy-melnikov" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/stack_space" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/m.elnikov" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
+
+---
