@@ -3,7 +3,7 @@
 
 ### :man_technologist: About me:
 
-Dear friends, I have been working as JavaScript developer since mid - 2021<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Ready to apply my passion for coding to develop quality solutions.
+Dear friends, I have been working as JavaScript developer since mid - 2021<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 - :telescope: Skilled web developer with strong background in frontend development using React
 
@@ -39,7 +39,16 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+	<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   
+</div>
+
+---
+
+### 🛠 Tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---
