@@ -21,9 +21,7 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
     <a href="https://www.linkedin.com/in/dmitriy-melnikov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/stack_space" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
+    
   </div>
 
 ---
