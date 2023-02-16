@@ -11,7 +11,7 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
 
 - :zap: Ready to apply my passion for coding to develop quality solutions.
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-TMillers-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stack_space) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:melnikod.d.job@yandex.ru)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-DmitriyMelnikov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stack_space) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:melnikod.d.job@yandex.ru)
 
 ---
 
@@ -52,3 +52,7 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
 </div>
 
 ---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/themillers)
