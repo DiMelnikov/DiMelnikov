@@ -1,4 +1,4 @@
-# Hi there, my name is <a href="https://github.com/TMillers" target="_blank">Dima</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Hi there, my name is <a href="https://github.com/TMillers" target="_blank">Dima</a> 
 
 ---
 
