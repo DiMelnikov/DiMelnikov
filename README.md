@@ -66,4 +66,18 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
   </tr>
 </table>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=TMillers&label=Profile%20views&color=0e75b6&style=flat" alt="TMillers" /> </p>
+ 📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   32 hrs 24 mins  ██████████████████████▓░░   91.28 %
+JavaScript   2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+SCSS         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+```
+
+<!--END_SECTION:waka-->
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
