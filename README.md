@@ -3,7 +3,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me:
 
-Dear friends, I have been working as JavaScript developer since mid - 2021<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+Dear friends, I have been working as JavaScript developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 - :telescope: Skilled web developer with strong background in frontend development using React
 
