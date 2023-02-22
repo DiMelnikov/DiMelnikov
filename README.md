@@ -64,5 +64,6 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TMillers&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
+	 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TMillers&label=Profile%20views&color=0e75b6&style=flat" alt="TMillers" /> </p>
 </table>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=TMillers&label=Profile%20views&color=0e75b6&style=flat" alt="TMillers" /> </p>
