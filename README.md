@@ -2,7 +2,7 @@
 
 ---
 
-### :man_technologist: About me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me:
 
 Dear friends, I have been working as JavaScript developer since mid - 2021<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
@@ -53,7 +53,7 @@ Dear friends, I have been working as JavaScript developer since mid - 2021<img s
 
 ![codewars](https://www.codewars.com/users/themillers/badges/large)
 
-### ⚙️ GitHub statistics:
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> GitHub statistics:
 
 <table>
   <tr>
