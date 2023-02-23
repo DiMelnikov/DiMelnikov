@@ -64,3 +64,4 @@ Dear friends, I have been working as JavaScript developer <img src="https://medi
     </td>
   </tr>
 </table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TMillers&label=Profile%20views&color=0e75b6&style=flat" alt="romanshemelin" /> 
