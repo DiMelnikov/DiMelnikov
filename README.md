@@ -10,7 +10,7 @@ Dear friends, I have been working as JavaScript developer
 
 - :telescope: Skilled web developer with strong background in frontend development using React
 
-- :seedling: Now I am improving my skills in this direction and and plan to expand them with new technologies, such as Vue, TS
+- :seedling: Now I am improving my skills in this direction and plan to expand them with new technologies, such as Vue, TS
 
 - :zap: Ready to apply my passion for coding to develop quality solutions.
 
