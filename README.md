@@ -1,4 +1,4 @@
-# Hi, I'm Dmitriy Melnikov			
+# Hi, I'm Dmitriy Melnikov - Frontend Developer			
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -6,7 +6,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me:
 
-Dear friends, I have been working as JavaScript developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
+Dear friends, I have been working as JavaScript developer
 
 - :telescope: Skilled web developer with strong background in frontend development using React
 
