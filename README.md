@@ -57,11 +57,11 @@ Dear friends, I have been working as JavaScript developer <img src="https://medi
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=TMillers&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DiMelnikov&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TMillers&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TMillers&label=Profile%20views&color=0e75b6&style=flat" alt="romanshemelin" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DiMelnikov&label=Profile%20views&color=0e75b6&style=flat" alt="romanshemelin" /> 
