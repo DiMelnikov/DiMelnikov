@@ -1,4 +1,4 @@
-# Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm <a href="https://github.com/DiMelnikov" target="_blank">Dmitriy</a> 				
+# Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm <a href="https://github.com/DiMelnikov" target="_blank">Dmitriy Melnikov</a> 				
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me:
@@ -60,7 +60,7 @@ Dear friends, I have been working as JavaScript developer <img src="https://medi
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DiMelnikov&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TMillers&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimelnikov&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
